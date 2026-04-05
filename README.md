@@ -59,16 +59,6 @@ Excellent for initial reconnaissance and expanding the digital footprint of a ta
   chmod +x OHarvest
   ./OHarvest
 
-  📁 Output
-
-Live Terminal — Progress per source with new emails/subdomains count
-Summary — Domain, elapsed time, total emails, total subdomains
-Export Files (in oharvest_reports/):
-oharvest_<domain>_<timestamp>.txt — Human-readable report
-oharvest_<domain>_<timestamp>.json — Structured data with stats
-oharvest_<domain>_<timestamp>.csv — Type + value format
-
-
 
 📦 Part of OwlSec Toolkit
 This tool is part of the OwlSec suite — a collection of 300+ security and privacy tools.
